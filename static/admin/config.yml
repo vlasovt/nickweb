@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+
+media_folder: "img/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Show Only Image", name: "showonlyimage", widget: "boolean", default: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Keywords", name: "keywords", widget: "list", required: false}
+      - {label: "Topics", name: "topics", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/about/_index.md"
+        label: "À propos"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
+      - file: "content/contact/_index.md"
+        label: "Contacter"
+        name: "contact"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
