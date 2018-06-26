@@ -30,6 +30,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/contact/_index.md"
         label: "Contacter"
         name: "contact"
