@@ -13,7 +13,14 @@ keywords:
   - Montréal
   - guerre
 weight: '1'
-extract: 'lala'
+extract: >-
+  Il y était une fois, une créature marine qui habitait le golfe du Saguenay.
+  Les gens de la région l’appelaient le Golfsag, ce qui voulait dire «Golfe du
+  Saguenay ». Avant de devenir une attraction touristique québécoise, cette
+  place n’attirait que quelques baigneurs durant l’année. Cela était peut-être à
+  cause de cette bête monstrueuse. D’après tout, la grande majorité de ces
+  personnes courageuses qui se sont aventurées dans ce majestueux golfe ne sont
+  pas retournés de leur fatale baignade.
 ---
 # Prologue
 
