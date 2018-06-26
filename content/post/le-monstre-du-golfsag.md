@@ -13,6 +13,7 @@ keywords:
   - Montréal
   - guerre
 weight: '1'
+extract: 'lala'
 ---
 # Prologue
 

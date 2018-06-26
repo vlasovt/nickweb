@@ -20,6 +20,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Topics", name: "topics", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Extract", name: "extract", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
