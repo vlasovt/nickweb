@@ -1,8 +1,8 @@
 ---
 title: Le Monstre du Golfsag
 date: '2018-06-24T22:33:19-04:00'
+image: /img/uploads/dhaval-parmar-493115-unsplash.jpg
 draft: false
-image: 'img/uploads/_9178105_orig.jpg'
 showonlyimage: false
 categories:
   - Fantaisie
@@ -20,8 +20,7 @@ Il y était une fois, une créature marine qui habitait le golfe du Saguenay. Le
 
 # Chapitre 1: Une rencontre inattendue
 
-**Montréal, 1917
-**
+**Montréal, 1917**
 
 Après les émeutes antiallemandes à Calgary, les propriétaires d’entreprises allemandes au Canada ont commencé une révolte fédérale comme vengeance aux dommages causés. À la suite de ces évènements de violence, la grande ville fût enveloppée d’un smog épais de poudre à canon et les rues de cette dernière étaient remplies de cartouches et de fragments de fourches. Ceci a forcé à plusieurs gens comme moi, William Morrison, à nettoyer les rues malpropres. Un jour, alors que je nettoyais l’insalubrité des égouts, j’entendis un petit grognement à peine audible. Je pris un tube de métal rouillé et je m’avançais doucement à l’origine du son avec crainte. J’étais à peine à deux mètres de la créature quand un lourd silence s’imposa, suivi par l’émergence du monstre qui pénétra le calme inquiétant. Il avait la peau grisâtre des dents acérées et des yeux jaunes remplis d’haine. Il s’approcha de moi en grognant et commença à me nager après. J’ai voulu m’échapper, mais, sans réussite. Cette bête surgit de l’eau encore une fois et me plaqua contre le mur. Elle recommença à grogner et regarda mon corps avec la langue sortie. Elle fixa continuellement la poche de mes salopettes à bretelles, et je me souvint que j’y avais mis une saussice Francfort. Je supposai qu’elle avait faim, donc je lui ai lancé la viande, et, je dois admettre, c’était quand même impressionnant la voir dévorer la saussice en une bouchée : « Qu’est-ce que tu es? » me demandai-je, à la fois émerveillé et épeuré.
 
@@ -117,10 +116,10 @@ Et avec cette phrase, le monstre se dirigea vers l’océan, où on n’entendra
 
 # Épilogue
 
-**30 ANS PLUS TARD…
-**
+**30 ANS PLUS TARD…**
 
 Depuis ce temps, on m’a considéré un héros national, j’ai même gagné la médaille d’honneur en 1918! On parle quand même beaucoup de moi. Mais, on raconte quand même que la créature rode toujours les lacs de la Montérégie, où il a été aperçu par plusieurs…
 
-**LA FIN…
-**
+**LA FIN…**
+
+**Photo par Dhaval Parmar sur** [**Unsplash**](https://unsplash.com/search/photos/old-montreal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
