@@ -1,8 +1,8 @@
 ---
 title: Le Monstre du Golfsag
 date: '2018-06-24T22:33:19-04:00'
+image: /img/uploads/dhaval-parmar-493115-unsplash.jpg
 draft: false
-image: 'img/uploads/_9178105_orig.jpg'
 showonlyimage: false
 categories:
   - Fantaisie
@@ -122,5 +122,7 @@ Et avec cette phrase, le monstre se dirigea vers l’océan, où on n’entendra
 
 Depuis ce temps, on m’a considéré un héros national, j’ai même gagné la médaille d’honneur en 1918! On parle quand même beaucoup de moi. Mais, on raconte quand même que la créature rode toujours les lacs de la Montérégie, où il a été aperçu par plusieurs…
 
-**LA FIN…
+**LA FIN…**
+
 **
+Photo par Dhaval Parmar sur **[**Unsplash**](https://unsplash.com/search/photos/old-montreal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
