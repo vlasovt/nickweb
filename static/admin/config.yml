@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/about/_index.md"
+      - file: "content/about/index.md"
         label: "À propos"
         name: "about"
         fields:
