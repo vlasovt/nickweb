@@ -84,7 +84,7 @@
     <img alt='{{ .Site.Params.author | default "" }}' src="https://www.gravatar.com/avatar/{{ md5  .Site.Params.email | default "" }}?s=100&d=identicon" class='avatar avatar-72 photo' height='72' width='72'>
 
     <span>
-      Written by:<a href="{{ .Site.Params.authorLink | default "" | absURL}}" title="Posts by {{ .Site.Params.author | default "" }}" rel="author">{{ .Site.Params.author | default "" }}</a>        </span>
+      Écrit par:<a href="{{ .Site.Params.authorLink | default "" | absURL}}" title="Posts by {{ .Site.Params.author | default "" }}" rel="author">{{ .Site.Params.author | default "" }}</a>        </span>
     </div>
     <div class="bio">
       {{ range .Site.Params.bio }}
