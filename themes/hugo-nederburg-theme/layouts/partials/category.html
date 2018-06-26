@@ -1,6 +1,6 @@
 <div class="archive-header">
 	<h1>
-		Categorie: {{ .Title }} 
+		Catégorie: {{ .Title }} 
 		{{ if .Site.Params.social.rss }}
 		<a href="{{ .RSSLink }}" data-animate-hover="pulse" class="in-page-rss" target="_blank">
             <i class="fa fa-rss" title="rss"></i>
@@ -10,7 +10,7 @@
 	</h1>
 </div>
 
-<h1 class="screen-reader-text">Posts</h1>
+<h1 class="screen-reader-text">Textes</h1>
 <div id="loop-container" class="loop-container">
   {{ range $index, $element := (where .Data.Pages "Section" "post") }}
 	{{ if and (isset .Params "image") .Params.image }}
@@ -61,7 +61,7 @@
 								<article>
 									{{ .Summary }}
 
-									<div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Read the post<span class="screen-reader-text">This is a Standard Post</span></a></div>
+									<div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Lire le texte<span class="screen-reader-text">This is a Standard Post</span></a></div>
 								</article>
 							</div>
 						</div>
