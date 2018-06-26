@@ -1,7 +1,7 @@
 ---
 title: Test
 date: '2018-06-25T13:57:18-04:00'
-image: ''
+image: /img/uploads/pretty-wife-eat-cheese.jpg
 draft: false
 showonlyimage: false
 weight: '2'
