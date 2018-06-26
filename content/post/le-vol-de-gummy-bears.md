@@ -16,8 +16,6 @@ extract: >-
   Une courte histoire d'un jeune délinquant, se retrouvant face à un policier
   éloquent.
 ---
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 Matis et Thomas sont au dépanneur. Ils sont en train de chercher la sections ''Sucreries'' en ayant l'air de manigancer quelque chose. Ils s'y rendent finalement et retrouvent ce qu'ils ont cherché, un paquet extra-extra large d'oursons en gelée. Ils jettent un regard autour pour s'assurer qu'ils ne sont pas surveillés et cachent les Gummy Bears. Les petits malfaiteurs se retirent de l'établissement essayant de trouver un air innocent. Par contre, quelques secondes plus tard, l'alarme sonne et un policier plutôt éloquent se dirige vers la scène de crime.
 
 \-Bon, s'exclame Thomas, je me la casse.
